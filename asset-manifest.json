@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sticker-scraper/static/css/main.b0ec498a.chunk.css",
-    "main.js": "/sticker-scraper/static/js/main.64a56dbe.chunk.js",
-    "main.js.map": "/sticker-scraper/static/js/main.64a56dbe.chunk.js.map",
-    "runtime-main.js": "/sticker-scraper/static/js/runtime-main.d325e544.js",
-    "runtime-main.js.map": "/sticker-scraper/static/js/runtime-main.d325e544.js.map",
+    "main.css": "/sticker-scraper/static/css/main.4395c56b.chunk.css",
+    "main.js": "/sticker-scraper/static/js/main.8478f170.chunk.js",
+    "main.js.map": "/sticker-scraper/static/js/main.8478f170.chunk.js.map",
+    "runtime-main.js": "/sticker-scraper/static/js/runtime-main.cdc710a7.js",
+    "runtime-main.js.map": "/sticker-scraper/static/js/runtime-main.cdc710a7.js.map",
     "static/css/2.597edd7d.chunk.css": "/sticker-scraper/static/css/2.597edd7d.chunk.css",
-    "static/js/2.090de571.chunk.js": "/sticker-scraper/static/js/2.090de571.chunk.js",
-    "static/js/2.090de571.chunk.js.map": "/sticker-scraper/static/js/2.090de571.chunk.js.map",
-    "static/js/3.db02d29a.chunk.js": "/sticker-scraper/static/js/3.db02d29a.chunk.js",
-    "static/js/3.db02d29a.chunk.js.map": "/sticker-scraper/static/js/3.db02d29a.chunk.js.map",
+    "static/js/2.732155ab.chunk.js": "/sticker-scraper/static/js/2.732155ab.chunk.js",
+    "static/js/2.732155ab.chunk.js.map": "/sticker-scraper/static/js/2.732155ab.chunk.js.map",
+    "static/js/3.18e37afe.chunk.js": "/sticker-scraper/static/js/3.18e37afe.chunk.js",
+    "static/js/3.18e37afe.chunk.js.map": "/sticker-scraper/static/js/3.18e37afe.chunk.js.map",
     "1.6c401ab23349ce7bcf14.worker.js": "/sticker-scraper/1.6c401ab23349ce7bcf14.worker.js",
     "2.6c401ab23349ce7bcf14.worker.js": "/sticker-scraper/2.6c401ab23349ce7bcf14.worker.js",
     "3dee0f934ca1a5946a253599e3e442c6.wasm": "/sticker-scraper/3dee0f934ca1a5946a253599e3e442c6.wasm",
@@ -17,15 +17,15 @@
     "c3e89babe1c03ad20450fff04e577278.mem": "/sticker-scraper/c3e89babe1c03ad20450fff04e577278.mem",
     "index.html": "/sticker-scraper/index.html",
     "static/css/2.597edd7d.chunk.css.map": "/sticker-scraper/static/css/2.597edd7d.chunk.css.map",
-    "static/css/main.b0ec498a.chunk.css.map": "/sticker-scraper/static/css/main.b0ec498a.chunk.css.map",
-    "static/js/2.090de571.chunk.js.LICENSE.txt": "/sticker-scraper/static/js/2.090de571.chunk.js.LICENSE.txt",
+    "static/css/main.4395c56b.chunk.css.map": "/sticker-scraper/static/css/main.4395c56b.chunk.css.map",
+    "static/js/2.732155ab.chunk.js.LICENSE.txt": "/sticker-scraper/static/js/2.732155ab.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/sticker-scraper/static/media/Inter.var.c2fe3cb2.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.d325e544.js",
+    "static/js/runtime-main.cdc710a7.js",
     "static/css/2.597edd7d.chunk.css",
-    "static/js/2.090de571.chunk.js",
-    "static/css/main.b0ec498a.chunk.css",
-    "static/js/main.64a56dbe.chunk.js"
+    "static/js/2.732155ab.chunk.js",
+    "static/css/main.4395c56b.chunk.css",
+    "static/js/main.8478f170.chunk.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sticker-scraper/static/css/main.0d015efe.css",
-    "main.js": "/sticker-scraper/static/js/main.104811c7.js",
+    "main.js": "/sticker-scraper/static/js/main.5acfb1cd.js",
     "static/js/787.57d394df.chunk.js": "/sticker-scraper/static/js/787.57d394df.chunk.js",
     "static/media/Inter.var.woff2?v=3.19": "/sticker-scraper/static/media/Inter.var.c2fe3cb2b7c746f7966a.woff2",
     "static/media/Inter-italic.var.woff2?v=3.19": "/sticker-scraper/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
@@ -44,11 +44,11 @@
     "static/media/Inter-Regular.woff2?v=3.19": "/sticker-scraper/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "index.html": "/sticker-scraper/index.html",
     "main.0d015efe.css.map": "/sticker-scraper/static/css/main.0d015efe.css.map",
-    "main.104811c7.js.map": "/sticker-scraper/static/js/main.104811c7.js.map",
+    "main.5acfb1cd.js.map": "/sticker-scraper/static/js/main.5acfb1cd.js.map",
     "787.57d394df.chunk.js.map": "/sticker-scraper/static/js/787.57d394df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d015efe.css",
-    "static/js/main.104811c7.js"
+    "static/js/main.5acfb1cd.js"
   ]
 }
